@@ -113,6 +113,5 @@ Next 2 words after 'author': author of the
 5. **Train LSTM** — Model learns to predict the next word given preceding words
 6. **Predict** — Given a seed word, iteratively predicts the next words by feeding predictions back as input
 
-## License
-
-MIT
+## 📊 Author
+**Amit Rastogi** 
